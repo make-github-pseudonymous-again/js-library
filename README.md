@@ -55,6 +55,8 @@ This list is a selection of projects that have been proved to be working, usable
     - [aureooms/js-random](https://github.com/aureooms/js-random) : randomness code bricks for JavaScript
     - [aureooms/js-search](https://github.com/aureooms/js-search) : item retrieval code bricks for JavaScript
     - [aureooms/js-sort](https://github.com/aureooms/js-sort) : sorting code bricks for JavaScript
+  - Data structures
+    - [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap code bricks for JavaScript
   - JavaScript tools
     - [aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
     - [aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
