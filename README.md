@@ -14,3 +14,32 @@ All kinds of code bricks for JavaScript.
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-library.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-library)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-library.svg?style=flat)](https://github.com/aureooms/js-library/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-library.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-library)
+
+## Description
+
+This README regroups dozens of projects focusing on solving problems in JavaScript. This project itself does not contain any code but it may change in the future.
+
+## Hierarchy
+
+There are three main categories: *algorithms*, *data structures*, and *JavaScript tools*.
+
+- [aureooms/js-algo](https://github.com/aureooms/js-algo) : playground for algorithmic code bricks in JavaScript
+- [aureooms/js-data-structures](https://github.com/aureooms/js-data-structures) : data structures code bricks for JavaScript
+- Javascript tools
+  - [aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
+  - [aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
+  - [aureooms/js-operator](https://github.com/aureooms/js-operator) : language operators code bricks for JavaScript
+  - [aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
+  - [aureooms/js-number](https://github.com/aureooms/js-number) : primitive number type arithmetic code bricks for JavaScript
+  - [aureooms/js-math](https://github.com/aureooms/js-math) : math code bricks for JavaScript
+  - [aureooms/js-object](https://github.com/aureooms/js-object) : object code bricks for JavaScript
+  - [aureooms/js-array](https://github.com/aureooms/js-array) : array manipulation code bricks for JavaScript
+  - [aureooms/js-code](https://github.com/aureooms/js-code) : code generation code bricks for JavaScript
+  - [aureooms/js-mem](https://github.com/aureooms/js-mem) : memory management code bricks for JavaScript
+  - [aureooms/js-type](https://github.com/aureooms/js-type) : type checking code bricks for JavaScript
+  - [aureooms/js-int32](https://github.com/aureooms/js-int32) : 32-bit signed integer arithmetic code bricks for JavaScript
+  - [aureooms/js-int64](https://github.com/aureooms/js-int64) : 64-bit signed integer arithmetic code bricks for JavaScript
+  - [aureooms/js-uint32](https://github.com/aureooms/js-uint32) : 32-bit unsigned integer arithmetic code bricks for JavaScript
+  - [aureooms/js-uint64](https://github.com/aureooms/js-uint64) : 64-bit unsigned integer arithmetic code bricks for JavaScript
+  - [aureooms/js-bit](https://github.com/aureooms/js-bit) : bit twiddling hacks code bricks for JavaScript
+
