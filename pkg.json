@@ -1,0 +1,17 @@
+{
+	"debug": false,
+	"name": "library",
+	"code": {
+		"main": [
+			"js",
+			"dist",
+			"library.js"
+		],
+		"test": [
+			"test",
+			"js"
+		]
+	},
+	"out": "js/dist/",
+	"src": "js/src/"
+}
