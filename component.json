@@ -4,7 +4,7 @@
 	],
 	"repo": "aureooms/js-library",
 	"license": "AGPL-3.0",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"name": "aureooms-js-library",
 	"description": "All kinds of code bricks for JavaScript",
 	"main": "js/dist/library.js"
