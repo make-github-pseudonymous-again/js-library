@@ -30,6 +30,7 @@ There are three main categories: *algorithms*, *data structures*, and *JavaScrip
   - [aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
   - [aureooms/js-code](https://github.com/aureooms/js-code) : code generation code bricks for JavaScript
   - Functional operators
+    - [aureooms/js-predicate](https://github.com/aureooms/js-predicate) : predicate code bricks for JavaScript
     - [aureooms/js-operator](https://github.com/aureooms/js-operator) : language operators code bricks for JavaScript
     - [aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
     - [aureooms/js-type](https://github.com/aureooms/js-type) : type checking code bricks for JavaScript
