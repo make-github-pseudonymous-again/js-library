@@ -19,7 +19,7 @@ All kinds of code bricks for JavaScript.
 
 This README regroups dozens of projects focusing on solving problems in JavaScript. This project itself does not contain any code but it may change in the future.
 
-## Hierarchy
+### Hierarchy
 
 There are three main categories: *algorithms*, *data structures*, and *JavaScript tools*.
 
@@ -47,3 +47,15 @@ There are three main categories: *algorithms*, *data structures*, and *JavaScrip
     - [aureooms/js-uint64](https://github.com/aureooms/js-uint64) : 64-bit unsigned integer arithmetic code bricks for JavaScript
     - [aureooms/js-bit](https://github.com/aureooms/js-bit) : bit twiddling hacks code bricks for JavaScript
 
+### Curated
+
+This list is a selection of projects that have been proved to be working, usable and useful.
+
+  - Algorithms
+    - [aureooms/js-random](https://github.com/aureooms/js-random) : randomness code bricks for JavaScript
+    - [aureooms/js-search](https://github.com/aureooms/js-search) : item retrieval code bricks for JavaScript
+    - [aureooms/js-sort](https://github.com/aureooms/js-sort) : sorting code bricks for JavaScript
+  - JavaScript tools
+    - [aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
+    - [aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
+    - [aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
