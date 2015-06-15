@@ -61,3 +61,4 @@ This list is a selection of projects that have been proved to be working, usable
     - [aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
     - [aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
     - [aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
+    - [aureooms/js-array](https://github.com/aureooms/js-array) : array manipulation code bricks for JavaScript
