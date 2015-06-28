@@ -59,6 +59,7 @@ This list is a selection of projects that have been proved to be working, usable
         - [aureooms/js-heapsort](https://github.com/aureooms/js-heapsort): heapsort code bricks for JavaScript
         - [aureooms/js-quicksort](https://github.com/aureooms/js-quicksort): quicksort code bricks for JavaScript
       - [aureooms/js-mergesort](https://github.com/aureooms/js-mergesort): mergesort code bricks for JavaScript
+      - [aureooms/js-merging](https://github.com/aureooms/js-merging): merging code bricks for JavaScript
       - [aureooms/js-partition](https://github.com/aureooms/js-partition): partition code bricks for JavaScript
       - [aureooms/js-selection](https://github.com/aureooms/js-selection): selection code bricks for JavaScript
   - Data structures
