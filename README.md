@@ -52,6 +52,7 @@ There are three main categories: *algorithms*, *data structures*, and *JavaScrip
 This list is a selection of projects that have been proved to be working, usable and useful.
 
   - Algorithms
+    - [aureooms/js-fft](https://github.com/aureooms/js-fft) : fast Fourier transform code bricks for JavaScript
     - [aureooms/js-random](https://github.com/aureooms/js-random) : randomness code bricks for JavaScript
     - [aureooms/js-search](https://github.com/aureooms/js-search) : item retrieval code bricks for JavaScript
     - [aureooms/js-splitting](https://github.com/aureooms/js-splitting): splitting code bricks for JavaScript
