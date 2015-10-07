@@ -23,7 +23,7 @@ This README regroups dozens of projects focusing on solving problems in JavaScri
 
 There are three main categories: *algorithms*, *data structures*, and *JavaScript tools*.
 
-- [aureooms/js-algo](https://github.com/aureooms/js-algo) : playground for algorithmic code bricks in JavaScript
+- [aureooms/js-algorithms](https://github.com/aureooms/js-algorithms) : playground for algorithmic code bricks in JavaScript
 - [aureooms/js-data-structures](https://github.com/aureooms/js-data-structures) : data structures code bricks for JavaScript
 - Javascript tools
   - [aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
