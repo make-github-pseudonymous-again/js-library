@@ -67,7 +67,8 @@ This list is a selection of projects that have been proved to be working, usable
       - [aureooms/js-partition](https://github.com/aureooms/js-partition): partition code bricks for JavaScript
       - [aureooms/js-selection](https://github.com/aureooms/js-selection): selection code bricks for JavaScript
   - Data structures
-    - [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): binomial heap code bricks for JavaScript
+    - [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
+    - [aureooms/js-red-black-tree](https://github.com/aureooms/js-red-black-tree): Red-black tree data structure for JavaScript
   - JavaScript tools
     - [aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
     - [aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
