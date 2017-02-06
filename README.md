@@ -1,5 +1,7 @@
-[js-library](http://aureooms.github.io/js-library)
+[@aureooms/js-library](http://aureooms.github.io/js-library)
 ==
+
+<img src="https://libraryofbabel.info/img/browsehex.gif" width="864">
 
 All kinds of code bricks for JavaScript.
 
