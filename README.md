@@ -38,7 +38,7 @@ There are three main categories: *algorithms*, *data structures*, and *JavaScrip
   - Objects and arrays
     - [aureooms/js-object](https://github.com/aureooms/js-object) : object code bricks for JavaScript
     - [aureooms/js-array](https://github.com/aureooms/js-array) : array manipulation code bricks for JavaScript
-    - [aureooms/js-mem](https://github.com/aureooms/js-mem) : memory management code bricks for JavaScript
+    - [aureooms/js-memory](https://github.com/aureooms/js-memory) : memory management code bricks for JavaScript
   - Numbers
     - [aureooms/js-number](https://github.com/aureooms/js-number) : primitive number type arithmetic code bricks for JavaScript
     - [aureooms/js-math](https://github.com/aureooms/js-math) : math code bricks for JavaScript
