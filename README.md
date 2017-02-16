@@ -5,7 +5,7 @@
 
 All kinds of code bricks for JavaScript.
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-library.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-library/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-library.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-library/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-library.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-library)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-library.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-library)
 [![Build Status](https://img.shields.io/travis/aureooms/js-library.svg?style=flat)](https://travis-ci.org/aureooms/js-library)
