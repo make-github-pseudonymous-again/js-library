@@ -8,7 +8,7 @@
 	},
 	"homepage": "http://aureooms.github.io/js-library/",
 	"license": "AGPL-3.0",
-	"name": "aureooms-js-library",
+	"name": "@aureooms/js-library",
 	"description": "All kinds of code bricks for JavaScript",
 	"repository": {
 		"type": "git",
