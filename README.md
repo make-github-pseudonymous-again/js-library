@@ -19,17 +19,17 @@ All kinds of code bricks for JavaScript.
 
 ## Description
 
-This README regroups dozens of projects focusing on solving problems in JavaScript. This project itself does not contain any code but it may change in the future.
+This README regroups dozens of projects focusing on solving problems with JavaScript. This project itself does not contain any code but it may change in the future.
 
 ### Hierarchy
 
 There are three main categories: *algorithms*, *data structures*, and *JavaScript tools*.
 
 #### Algorithms
-- [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms) : playground for algorithmic code bricks in JavaScript
+- [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms) : Algorithms for JavaScript
 
 #### Data structures
-- [@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures) : data structures code bricks for JavaScript
+- [@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures) : Data structures for JavaScript
 
 #### Javascript tools
 - [@aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
