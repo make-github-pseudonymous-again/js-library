@@ -25,54 +25,60 @@ This README regroups dozens of projects focusing on solving problems in JavaScri
 
 There are three main categories: *algorithms*, *data structures*, and *JavaScript tools*.
 
-- [aureooms/js-algorithms](https://github.com/aureooms/js-algorithms) : playground for algorithmic code bricks in JavaScript
-- [aureooms/js-data-structures](https://github.com/aureooms/js-data-structures) : data structures code bricks for JavaScript
-- Javascript tools
-  - [aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
-  - [aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
-  - [aureooms/js-cardinality](https://github.com/aureooms/js-cardinality) : iterable cardinality code bricks for JavaScript
-  - [aureooms/js-code](https://github.com/aureooms/js-code) : code generation code bricks for JavaScript
-  - Functional operators
-    - [aureooms/js-predicate](https://github.com/aureooms/js-predicate) : predicate code bricks for JavaScript
-    - [aureooms/js-operator](https://github.com/aureooms/js-operator) : language operators code bricks for JavaScript
-    - [aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
-    - [aureooms/js-type](https://github.com/aureooms/js-type) : type checking code bricks for JavaScript
-  - Objects and arrays
-    - [aureooms/js-object](https://github.com/aureooms/js-object) : object code bricks for JavaScript
-    - [aureooms/js-array](https://github.com/aureooms/js-array) : array manipulation code bricks for JavaScript
-    - [aureooms/js-memory](https://github.com/aureooms/js-memory) : memory management code bricks for JavaScript
-  - Numbers
-    - [aureooms/js-number](https://github.com/aureooms/js-number) : primitive number type arithmetic code bricks for JavaScript
-    - [aureooms/js-math](https://github.com/aureooms/js-math) : math code bricks for JavaScript
-    - [aureooms/js-int32](https://github.com/aureooms/js-int32) : 32-bit signed integer arithmetic code bricks for JavaScript
-    - [aureooms/js-int64](https://github.com/aureooms/js-int64) : 64-bit signed integer arithmetic code bricks for JavaScript
-    - [aureooms/js-uint32](https://github.com/aureooms/js-uint32) : 32-bit unsigned integer arithmetic code bricks for JavaScript
-    - [aureooms/js-uint64](https://github.com/aureooms/js-uint64) : 64-bit unsigned integer arithmetic code bricks for JavaScript
-    - [aureooms/js-bit](https://github.com/aureooms/js-bit) : bit twiddling hacks code bricks for JavaScript
+#### Algorithms
+- [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms) : playground for algorithmic code bricks in JavaScript
+
+#### Data structures
+- [@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures) : data structures code bricks for JavaScript
+
+#### Javascript tools
+- [@aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
+- [@aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
+- [@aureooms/js-cardinality](https://github.com/aureooms/js-cardinality) : iterable cardinality code bricks for JavaScript
+- [@aureooms/js-code](https://github.com/aureooms/js-code) : code generation code bricks for JavaScript
+- Functional operators
+  - [@aureooms/js-predicate](https://github.com/aureooms/js-predicate) : predicate code bricks for JavaScript
+  - [@aureooms/js-operator](https://github.com/aureooms/js-operator) : language operators code bricks for JavaScript
+  - [@aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
+  - [@aureooms/js-type](https://github.com/aureooms/js-type) : type checking code bricks for JavaScript
+- Objects and arrays
+  - [@aureooms/js-object](https://github.com/aureooms/js-object) : object code bricks for JavaScript
+  - [@aureooms/js-array](https://github.com/aureooms/js-array) : array manipulation code bricks for JavaScript
+  - [@aureooms/js-memory](https://github.com/aureooms/js-memory) : memory management code bricks for JavaScript
+- Numbers
+  - [@aureooms/js-number](https://github.com/aureooms/js-number) : primitive number type arithmetic code bricks for JavaScript
+  - [@aureooms/js-math](https://github.com/aureooms/js-math) : math code bricks for JavaScript
+  - [@aureooms/js-int32](https://github.com/aureooms/js-int32) : 32-bit signed integer arithmetic code bricks for JavaScript
+  - [@aureooms/js-int64](https://github.com/aureooms/js-int64) : 64-bit signed integer arithmetic code bricks for JavaScript
+  - [@aureooms/js-uint32](https://github.com/aureooms/js-uint32) : 32-bit unsigned integer arithmetic code bricks for JavaScript
+  - [@aureooms/js-uint64](https://github.com/aureooms/js-uint64) : 64-bit unsigned integer arithmetic code bricks for JavaScript
+  - [@aureooms/js-bit](https://github.com/aureooms/js-bit) : bit twiddling hacks code bricks for JavaScript
 
 ### Curated
 
 This list is a selection of projects that have been proved to be working, usable and useful.
 
-  - Algorithms
-    - [aureooms/js-fft](https://github.com/aureooms/js-fft) : fast Fourier transform code bricks for JavaScript
-    - [aureooms/js-random](https://github.com/aureooms/js-random) : randomness code bricks for JavaScript
-    - [aureooms/js-search](https://github.com/aureooms/js-search) : item retrieval code bricks for JavaScript
-    - [aureooms/js-splitting](https://github.com/aureooms/js-splitting): splitting code bricks for JavaScript
-    - [aureooms/js-sort](https://github.com/aureooms/js-sort) : sorting code bricks for JavaScript
-      - [aureooms/js-in-situ-sort-spec](https://github.com/aureooms/js-in-situ-sort-spec): in place sorting code bricks for JavaScript
-        - [aureooms/js-heapsort](https://github.com/aureooms/js-heapsort): heapsort code bricks for JavaScript
-        - [aureooms/js-quicksort](https://github.com/aureooms/js-quicksort): quicksort code bricks for JavaScript
-      - [aureooms/js-mergesort](https://github.com/aureooms/js-mergesort): mergesort code bricks for JavaScript
-      - [aureooms/js-odd-even-mergesort](https://github.com/aureooms/js-odd-even-mergesort): Batcher's odd-even mergesort code bricks for JavaScript
-      - [aureooms/js-merging](https://github.com/aureooms/js-merging): merging code bricks for JavaScript
-      - [aureooms/js-partition](https://github.com/aureooms/js-partition): partition code bricks for JavaScript
-      - [aureooms/js-selection](https://github.com/aureooms/js-selection): selection code bricks for JavaScript
-  - Data structures
-    - [aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
-    - [aureooms/js-red-black-tree](https://github.com/aureooms/js-red-black-tree): Red-black tree data structure for JavaScript
-  - JavaScript tools
-    - [aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
-    - [aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
-    - [aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
-    - [aureooms/js-array](https://github.com/aureooms/js-array) : array manipulation code bricks for JavaScript
+#### Algorithms
+  - [@aureooms/js-fft](https://github.com/aureooms/js-fft) : fast Fourier transform code bricks for JavaScript
+  - [@aureooms/js-random](https://github.com/aureooms/js-random) : randomness code bricks for JavaScript
+  - [@aureooms/js-search](https://github.com/aureooms/js-search) : item retrieval code bricks for JavaScript
+  - [@aureooms/js-splitting](https://github.com/aureooms/js-splitting): splitting code bricks for JavaScript
+  - [@aureooms/js-sort](https://github.com/aureooms/js-sort) : sorting code bricks for JavaScript
+    - [@aureooms/js-in-situ-sort-spec](https://github.com/aureooms/js-in-situ-sort-spec): in place sorting code bricks for JavaScript
+      - [@aureooms/js-heapsort](https://github.com/aureooms/js-heapsort): heapsort code bricks for JavaScript
+      - [@aureooms/js-quicksort](https://github.com/aureooms/js-quicksort): quicksort code bricks for JavaScript
+    - [@aureooms/js-mergesort](https://github.com/aureooms/js-mergesort): mergesort code bricks for JavaScript
+    - [@aureooms/js-odd-even-mergesort](https://github.com/aureooms/js-odd-even-mergesort): Batcher's odd-even mergesort code bricks for JavaScript
+    - [@aureooms/js-merging](https://github.com/aureooms/js-merging): merging code bricks for JavaScript
+    - [@aureooms/js-partition](https://github.com/aureooms/js-partition): partition code bricks for JavaScript
+    - [@aureooms/js-selection](https://github.com/aureooms/js-selection): selection code bricks for JavaScript
+      
+#### Data structures
+  - [@aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
+  - [@aureooms/js-red-black-tree](https://github.com/aureooms/js-red-black-tree): Red-black tree data structure for JavaScript
+    
+#### JavaScript tools
+  - [@aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
+  - [@aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
+  - [@aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
+  - [@aureooms/js-array](https://github.com/aureooms/js-array) : array manipulation code bricks for JavaScript
