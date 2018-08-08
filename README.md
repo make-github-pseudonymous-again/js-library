@@ -23,15 +23,15 @@ This README regroups dozens of projects focusing on solving problems with JavaSc
 
 ### Hierarchy
 
-There are three main categories: *algorithms*, *data structures*, and *JavaScript tools*.
+There are three main categories: *Algorithms*, *Data Structures*, and *Tools*.
 
 #### Algorithms
 - [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms) : Algorithms for JavaScript
 
-#### Data structures
+#### Data Structures
 - [@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures) : Data structures for JavaScript
 
-#### Javascript tools
+#### Tools
 - [@aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
 - [@aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
 - [@aureooms/js-cardinality](https://github.com/aureooms/js-cardinality) : iterable cardinality code bricks for JavaScript
@@ -73,12 +73,14 @@ This list is a selection of projects that have been proved to be working, usable
     - [@aureooms/js-partition](https://github.com/aureooms/js-partition): partition code bricks for JavaScript
     - [@aureooms/js-selection](https://github.com/aureooms/js-selection): selection code bricks for JavaScript
       
-#### Data structures
+#### Data Structures
   - [@aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
   - [@aureooms/js-red-black-tree](https://github.com/aureooms/js-red-black-tree): Red-black tree data structure for JavaScript
+  - [@aureooms/js-fingertree](https://github.com/aureooms/js-fingertree):Finger tree data structure for JavaScript
     
-#### JavaScript tools
+#### Tools
   - [@aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
   - [@aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
   - [@aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
   - [@aureooms/js-array](https://github.com/aureooms/js-array) : array manipulation code bricks for JavaScript
+  - [@aureooms/js-tape](https://github.com/aureooms/js-tape) : Tape library for JavaScript
