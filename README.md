@@ -75,6 +75,8 @@ This list is a selection of projects that have been proved to be working, usable
       
 #### Data Structures
   - [@aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
+  - [@aureooms/js-pairing-heap](https://github.com/aureooms/js-pairing-heap): Pairing heap data structure for JavaScript
+  - [@aureooms/js-fibonacci-heap](https://github.com/aureooms/js-fibonacci-heap): Fibonacci heap data structure for JavaScript
   - [@aureooms/js-red-black-tree](https://github.com/aureooms/js-red-black-tree): Red-black tree data structure for JavaScript
   - [@aureooms/js-fingertree](https://github.com/aureooms/js-fingertree):Finger tree data structure for JavaScript
     
