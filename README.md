@@ -1,25 +1,15 @@
-[@aureooms/js-library](http://aureooms.github.io/js-library)
+:books: [@aureooms/js-library](http://aureooms.github.io/js-library)
+[![License](https://img.shields.io/github/license/aureooms/js-library.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-library/master/LICENSE)
 ==
 
-<img src="https://libraryofbabel.info/img/browsehex.gif" width="864">
+<img src="https://arc-photo-larazon.s3.amazonaws.com/eu-central-1-prod/public/ZWNIU5YSUZFL5LNVWU7EM3CERE.png" width="864">
 
 All kinds of code bricks for JavaScript.
 
-[![License](https://img.shields.io/github/license/aureooms/js-library.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-library/master/LICENSE)
-[![NPM version](https://img.shields.io/npm/v/@aureooms/js-library.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-library)
-[![Bower version](https://img.shields.io/bower/v/@aureooms/js-library.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-library)
-[![Build Status](https://img.shields.io/travis/aureooms/js-library.svg?style=flat)](https://travis-ci.org/aureooms/js-library)
-[![Coverage Status](https://img.shields.io/coveralls/aureooms/js-library.svg?style=flat)](https://coveralls.io/r/aureooms/js-library)
-[![Dependencies Status](https://img.shields.io/david/aureooms/js-library.svg?style=flat)](https://david-dm.org/aureooms/js-library#info=dependencies)
-[![devDependencies Status](https://img.shields.io/david/dev/aureooms/js-library.svg?style=flat)](https://david-dm.org/aureooms/js-library#info=devDependencies)
-[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-library.svg?style=flat)](https://codeclimate.com/github/aureooms/js-library)
-[![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-library.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-library)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-library.svg?style=flat)](https://github.com/aureooms/js-library/issues)
-[![Inline docs](http://inch-ci.org/github/aureooms/js-library.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-library)
 
 ## Description
 
-This README regroups dozens of projects focusing on solving problems with JavaScript. This project itself does not contain any code but it may change in the future.
+This README regroups dozens of projects focusing on solving problems with JavaScript. This project itself does not contain any code.
 
 ### Hierarchy
 
