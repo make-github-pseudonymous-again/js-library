@@ -2,9 +2,9 @@
 [![License](https://img.shields.io/github/license/aureooms/js-library.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-library/master/LICENSE)
 ==
 
-<img src="https://arc-photo-larazon.s3.amazonaws.com/eu-central-1-prod/public/ZWNIU5YSUZFL5LNVWU7EM3CERE.png" width="864">
+> All kinds of code bricks for JavaScript.
 
-All kinds of code bricks for JavaScript.
+<img src="https://arc-photo-larazon.s3.amazonaws.com/eu-central-1-prod/public/ZWNIU5YSUZFL5LNVWU7EM3CERE.png" width="864">
 
 
 ## Description
