@@ -11,17 +11,17 @@ All kinds of code bricks for JavaScript.
 
 This README regroups dozens of projects focusing on solving problems with JavaScript. This project itself does not contain any code.
 
-### Hierarchy
+### :telescope: Hierarchy
 
 There are three main categories: *Algorithms*, *Data Structures*, and *Tools*.
 
-#### Algorithms
+#### :rocket: Algorithms
 - [@aureooms/js-algorithms](https://github.com/aureooms/js-algorithms) : Algorithms for JavaScript
 
-#### Data Structures
+#### :herb: Data Structures
 - [@aureooms/js-data-structures](https://github.com/aureooms/js-data-structures) : Data structures for JavaScript
 
-#### Tools
+#### :hammer_and_wrench: Tools
 - [@aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
 - [@aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
 - [@aureooms/js-cardinality](https://github.com/aureooms/js-cardinality) : iterable cardinality code bricks for JavaScript
@@ -44,11 +44,11 @@ There are three main categories: *Algorithms*, *Data Structures*, and *Tools*.
   - [@aureooms/js-uint64](https://github.com/aureooms/js-uint64) : 64-bit unsigned integer arithmetic code bricks for JavaScript
   - [@aureooms/js-bit](https://github.com/aureooms/js-bit) : bit twiddling hacks code bricks for JavaScript
 
-### Curated
+### :peach: Curated
 
 This list is a selection of projects that have been proved to be working, usable and useful.
 
-#### Algorithms
+#### :rocket: Algorithms
   - [@aureooms/js-fft](https://github.com/aureooms/js-fft) : fast Fourier transform code bricks for JavaScript
   - [@aureooms/js-random](https://github.com/aureooms/js-random) : randomness code bricks for JavaScript
   - [@aureooms/js-search](https://github.com/aureooms/js-search) : item retrieval code bricks for JavaScript
@@ -63,14 +63,14 @@ This list is a selection of projects that have been proved to be working, usable
     - [@aureooms/js-partition](https://github.com/aureooms/js-partition): partition code bricks for JavaScript
     - [@aureooms/js-selection](https://github.com/aureooms/js-selection): selection code bricks for JavaScript
       
-#### Data Structures
+#### :herb: Data Structures
   - [@aureooms/js-binomial-heap](https://github.com/aureooms/js-binomial-heap): Binomial heap data structure for JavaScript
   - [@aureooms/js-pairing-heap](https://github.com/aureooms/js-pairing-heap): Pairing heap data structure for JavaScript
   - [@aureooms/js-fibonacci-heap](https://github.com/aureooms/js-fibonacci-heap): Fibonacci heap data structure for JavaScript
   - [@aureooms/js-red-black-tree](https://github.com/aureooms/js-red-black-tree): Red-black tree data structure for JavaScript
   - [@aureooms/js-fingertree](https://github.com/aureooms/js-fingertree):Finger tree data structure for JavaScript
     
-#### Tools
+#### :hammer_and_wrench: Tools
   - [@aureooms/js-functools](https://github.com/aureooms/js-functools) : functions code bricks for JavaScript
   - [@aureooms/js-itertools](https://github.com/aureooms/js-itertools) : iterator code bricks for JavaScript
   - [@aureooms/js-compare](https://github.com/aureooms/js-compare) : comparison code bricks for JavaScript
