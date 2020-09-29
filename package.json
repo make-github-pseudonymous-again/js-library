@@ -1,32 +1,31 @@
 {
-	"bugs": {
-		"url": "https://github.com/aureooms/js-library/issues"
-	},
-	"devDependencies": {
-	},
-	"homepage": "https://aureooms.github.io/js-library",
-	"license": "AGPL-3.0",
-	"name": "@aureooms/js-library",
-	"description": "All kinds of code bricks for JavaScript",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/aureooms/js-library.git"
-	},
-	"author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
-	"scripts": {
-		"build": "true",
-		"test": "true"
-	},
-	"dependencies": {},
-	"keywords": [
-		"algorithms",
-		"data",
-		"javascript",
-		"js",
-		"library",
-		"structures",
-		"tools",
-		"agpl"
-	],
-	"version": "0.0.1"
+  "name": "@aureooms/js-library",
+  "description": "All kinds of code bricks for JavaScript",
+  "version": "0.0.1",
+  "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/aureooms/js-library/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://aureooms.github.io/js-library",
+  "keywords": [
+    "agpl",
+    "algorithms",
+    "data",
+    "javascript",
+    "js",
+    "library",
+    "structures",
+    "tools"
+  ],
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aureooms/js-library.git"
+  },
+  "scripts": {
+    "build": "true",
+    "test": "true"
+  }
 }
