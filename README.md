@@ -1,5 +1,5 @@
 :books: [@aureooms/js-library](http://aureooms.github.io/js-library)
-[![License](https://img.shields.io/github/license/aureooms/js-library.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-library/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-library.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-library/main/LICENSE)
 ==
 
 > All kinds of code bricks for JavaScript.
