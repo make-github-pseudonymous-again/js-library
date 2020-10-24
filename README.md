@@ -4,7 +4,7 @@
 
 > All kinds of code bricks for JavaScript.
 
-<img src="https://arc-photo-larazon.s3.amazonaws.com/eu-central-1-prod/public/ZWNIU5YSUZFL5LNVWU7EM3CERE.png" width="864">
+<img src="https://ipfs.io/ipfs/QmWvibmJPdEQAHNNfBTaaV5rJuWTmLHeRY3iqrfbeQK2YF" width="864">
 
 
 ## Description
