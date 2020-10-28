@@ -4,7 +4,12 @@
 
 > All kinds of code bricks for JavaScript.
 
-<img src="https://ipfs.io/ipfs/QmWvibmJPdEQAHNNfBTaaV5rJuWTmLHeRY3iqrfbeQK2YF" width="864">
+<p align="center">
+<a href="https://en.wikipedia.org/wiki/Convex_and_Concave">
+<img src="https://ipfs.io/ipfs/QmYBDH3V548FREFUaBumLSWBqYoy3dZoCPYLJFpSFUAjLM" width="600">
+</a><br/>
+<i>Convex and Concave</i> by <a href="https://en.wikipedia.org/wiki/M._C._Escher">Maurits Cornelis Escher</a>
+</p>
 
 
 ## Description
